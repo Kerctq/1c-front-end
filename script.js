@@ -66,5 +66,5 @@ drawString(hoursAngle, "black");
 function drawWatch(params) {
     context.clearRect(0, 0, 300, 300);
     setTimeout(drawWatch, 1000);
-}
-drawWatch();
+drawWatch();}
+
